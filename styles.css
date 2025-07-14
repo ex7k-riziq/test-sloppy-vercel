@@ -322,7 +322,7 @@
 @media screen and (max-width: 960px) {
     .hero_container a {
         left: 50%;
-        font-size: 40px;
+        font-size: 28px;
         top: 50%;
         letter-spacing: 2rem;
     }
@@ -999,7 +999,7 @@
     }
 
     .joinending_btn {
-        font-size: 28px;
+        font-size: 21px;
         margin-bottom: 7%;
     }
 }
