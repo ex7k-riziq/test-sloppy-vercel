@@ -322,9 +322,10 @@
 @media screen and (max-width: 960px) {
     .hero_container a {
         left: 50%;
-        font-size: 24px;
+        font-size: 28px;
         top: 50%;
         letter-spacing: 2rem;
+        text-align: center;
     }
 }
 
