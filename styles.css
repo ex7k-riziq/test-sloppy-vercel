@@ -1006,7 +1006,9 @@
     }
 
     .joinending_btn {
-        font-size: 21px;
+        font-size: 28px;
         margin-bottom: 7%;
+        width: 42px;
+        height: 35px;
     }
 }
