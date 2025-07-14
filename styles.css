@@ -311,7 +311,6 @@
     left: 25%;
     font-size: 50px;
     top: 50%;
-    letter-spacing: 3rem;
     transform: translate(-50%, -50%);
     color: white;
     text-decoration: none;
@@ -319,13 +318,20 @@
     z-index: 2;
 }
 
+.hero_spacing {
+    letter-spacing: 3rem;
+}
+
 @media screen and (max-width: 960px) {
     .hero_container a {
         left: 50%;
         font-size: 28px;
         top: 50%;
-        letter-spacing: 2rem;
         text-align: center;
+    }
+
+    .hero_spacing {
+        letter-spacing: 2rem;
     }
 }
 
